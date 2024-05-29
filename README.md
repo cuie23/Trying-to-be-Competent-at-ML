@@ -1,2 +1,1 @@
-# Trying-to-be-Competent-at-ML
-Learning ML using python
+Repo name is probably self-explanatory
